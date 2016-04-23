@@ -1,1 +1,1 @@
-# -mipt-ML-spring-2016
+# Course of Machine Learning at MIPT, Spring 2016
